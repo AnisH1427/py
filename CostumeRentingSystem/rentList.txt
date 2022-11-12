@@ -1,0 +1,5 @@
+Helmet          Military        10  12 
+Pirates         Samundri_Daku   20  11
+Jewelry         GoldMines       30  10
+Glasses         Bishal_bajar    40  9
+Scarf           classicDress    50  8
